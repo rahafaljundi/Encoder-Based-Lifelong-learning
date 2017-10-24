@@ -73,5 +73,6 @@ This software package is freely available for research purposes. Please check th
 ## Acknowledgments
 
 * This code is mainly based on MatConvNet
-** We used a function used in Li, Zhizhong, and Derek Hoiem. "Learning without forgetting." European Conference on Computer Vision 2016 (see utils/vl_nnsoftmaxdiff.m)
+
+*We used a function used in Li, Zhizhong, and Derek Hoiem. "Learning without forgetting." European Conference on Computer Vision 2016 (see utils/vl_nnsoftmaxdiff.m)
 
